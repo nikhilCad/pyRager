@@ -1,5 +1,5 @@
 # pyRager
-The following project is a game made in Python using the tkinter module.
+The following project is a game made in Python using the tkinter module as a school project.
 
 tkinter is used as it is mentioned in Appendix B of Computer Science with Python
 by Sumita Arora, Class XII
@@ -14,6 +14,7 @@ Mouse Click to plant seeds, harvest etc.
 Escape key to escape to Main Menu
 
 INSTRUCTIONS:
+Opne pyRager/pyRager.py (needs Python 3.7)
 Go to market at bottom left to buy some seeds : Cost $1(in game money)
 Click on green land to make a farm plot
 Click again to plant seed(if available)
