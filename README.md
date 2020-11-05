@@ -68,3 +68,9 @@ SOFTWARE USED:
 I have tried to explain by comments all the tkinter functions used.
 Further help can be taken from http://effbot.org/tkinterbook/ and
 https://www.tutorialspoint.com/python/python_gui_programming.htm
+
+# Screenshots
+![Start Screen](readmeImages/pyrager0.png)
+![Game at beginning](readmeImages/pyrager1.png)
+![Gam at end](readmeImages/pyrager2.png)
+
