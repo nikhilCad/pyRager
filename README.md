@@ -14,7 +14,7 @@ Mouse Click to plant seeds, harvest etc.
 Escape key to escape to Main Menu
 
 INSTRUCTIONS:
-Opne pyRager/pyRager.py (needs Python 3.7)
+Opne pyRager/pyRager.py (needs Python 3.7) 
 Go to market at bottom left to buy some seeds : Cost $1(in game money)
 Click on green land to make a farm plot
 Click again to plant seed(if available)
