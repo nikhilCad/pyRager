@@ -8,12 +8,12 @@ The following project is a farming game in which the player starts a small farm 
 slowly builds it to an exotic green heaven.
 There is also a small market at the bottom left.
 
-CONTROLS:
-W/A/S/D or Up/Left/Down/Right arrow keys to move
-Mouse Click to plant seeds, harvest etc.
-Escape key to escape to Main Menu
+CONTROLS:  
+W/A/S/D or Up/Left/Down/Right arrow keys to move  
+Mouse Click to plant seeds, harvest etc.  
+Escape key to escape to Main Menu  
 
-INSTRUCTIONS:
+INSTRUCTIONS:  
 Open pyRager/pyRager.py (needs Python 3.7)  
 Go to market at bottom left to buy some seeds : Cost $1(in game money)  
 Click on green land to make a farm plot  
