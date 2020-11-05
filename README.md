@@ -29,17 +29,17 @@ Inspired by the game Forager, by game developer hopfrog.
 Buy: https://store.steampowered.com/app/751780/Forager/
 Demo: https://hopfrog.itch.io/forager-demo
 
-ASSETS:
+ASSETS:  
 Character Images(Sprites) downloaded from https://jesse-m.itch.io/jungle-pack
 All the other art and sound effects are self made.
 
-FEATURES:
+FEATURES:  
 1. Basic UI
 2. Movement and collsions
 3. Nearly 15 minutes long gameplay
 4. Saving highscore
 
-Concepts of syllabus used:
+Concepts of syllabus used:  
 1. Python basics
 2. Recursion
 3. Importing modules
@@ -48,20 +48,20 @@ Concepts of syllabus used:
 6. 2-Dimensional arrays
 7. Error handling
 
-CLARIFICATION:
+CLARIFICATION:  
 This is an original project, and is not 'copy-pasted'. Help was taken from the internet to note basic tkinter
 functions.
 
 Searching for pyRager on google only gives the result of some Reddit user. This project is not related to that
 person in any way.
 
-MODULES USED:
+MODULES USED:  
 1. tkinter (based heavily on it, installed on standard python. If not, reinstall python with tcl/tk selected)
 2. random (Used for starting quotes)
 3. winsound (only for Windows, error handling used if not found)
 4. math (only used once for fabs() and pow() functions)
 
-SOFTWARE USED:
+SOFTWARE USED:  
 1. IDLE
 2. Paint.net(since ms paint doesnt support transparent images)  https://www.getpaint.net/index.html
 3. BFXR(Free software to generate algorithm driven sounds)  https://www.bfxr.net/
