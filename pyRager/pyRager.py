@@ -209,7 +209,7 @@ def generateLevel():
 
     seed=0#in game item
 
-    money=0#in game item
+    money=1#in game item
 
     plant=0#in game item
 
