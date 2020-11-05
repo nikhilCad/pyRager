@@ -29,7 +29,7 @@ Inspired by the game Forager, by game developer hopfrog.
 Buy: https://store.steampowered.com/app/751780/Forager/
 Demo: https://hopfrog.itch.io/forager-demo
 
-**ASSETS**:
+**ASSETS**:  
 Character Images(Sprites) downloaded from https://jesse-m.itch.io/jungle-pack
 All the other art and sound effects are self made.
 
@@ -48,7 +48,7 @@ All the other art and sound effects are self made.
 6. 2-Dimensional arrays
 7. Error handling
 
-**CLARIFICATION**:
+**CLARIFICATION**:  
 This is an original project, and is not 'copy-pasted'. Help was taken from the internet to note basic tkinter
 functions.
 
@@ -73,5 +73,5 @@ https://www.tutorialspoint.com/python/python_gui_programming.htm
 # Screenshots
 ![Start Screen](readmeImages/pyrager0.png)
 ![Game at beginning](readmeImages/pyrager1.png)
-![Gam at end](readmeImages/pyrager2.png)
+![Game at end](readmeImages/pyrager2.png)
 
