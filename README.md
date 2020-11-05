@@ -9,20 +9,20 @@ slowly builds it to an exotic green heaven.
 There is also a small market at the bottom left.
 
 CONTROLS:  
-W/A/S/D or Up/Left/Down/Right arrow keys to move  
-Mouse Click to plant seeds, harvest etc.  
-Escape key to escape to Main Menu  
+1. W/A/S/D or Up/Left/Down/Right arrow keys to move  
+2. Mouse Click to plant seeds, harvest etc.  
+3. Escape key to escape to Main Menu  
 
 INSTRUCTIONS:  
-Open pyRager/pyRager.py (needs Python 3.7)  
-Go to market at bottom left to buy some seeds : Cost $1(in game money)  
-Click on green land to make a farm plot  
-Click again to plant seed(if available)  
-Wait 10 seconds for seeds to grow to plant  
-Click to harvest plant  
-Go to market, Sell plant for $2  
-Buy seeds again  
-Buy banks  
+1. Open pyRager/pyRager.py (needs Python 3.7)  
+2. Go to market at bottom left to buy some seeds : Cost $1(in game money)  
+3. Click on green land to make a farm plot  
+4. Click again to plant seed(if available)  
+5. Wait 10 seconds for seeds to grow to plant  
+6. Click to harvest plant  
+7. Go to market, Sell plant for $2  
+8. Buy seeds again  
+9. Buy banks  
 ...
 
 Inspired by the game Forager, by game developer hopfrog.
@@ -39,7 +39,7 @@ FEATURES:
 3. Nearly 15 minutes long gameplay
 4. Saving highscore
 
-Concepts of syllabus used:  
+CONCEPTS OF SYLLABUS USED:  
 1. Python basics
 2. Recursion
 3. Importing modules
